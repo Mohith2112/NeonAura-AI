@@ -120,6 +120,7 @@ No server or database is required.
 NeonAura-AI/
 │
 ├── app.html
+├── index.html
 └── README.md
 ```
 
