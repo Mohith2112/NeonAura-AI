@@ -2,7 +2,7 @@
 
 **Interactive Hand-Tracked XR Motion Lab built with Three.js, MediaPipe Hands, WebGL, and JavaScript.**
 
-NeonAura PRO 5.0 transforms a standard webcam into an immersive motion-controlled experience. Using real-time hand tracking and advanced graphics, users can interact with AR effects, draw in the air, control gesture-based filters, analyze finger movements, play Fruit Ninja, and manipulate a CGI liquid hand.
+NeonAura AI transforms a standard webcam into an immersive motion-controlled experience. Using real-time hand tracking and advanced graphics, users can interact with AR effects, draw in the air, control gesture-based filters, analyze finger movements, play Fruit Ninja, and manipulate a CGI liquid hand.
 
 ---
 
